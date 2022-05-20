@@ -18,7 +18,7 @@
 <br>
 <p>See <a href="">my website</a> for more information!</p>
 
-<h2 align="left">🎨 My last projects:</h2>
+<h2 align="left">🎨 My projects:</h2>
 
 <table bordercolor="#66b2b2">
   
@@ -32,7 +32,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="http://travelara.herokuapp.com" target="_blank">
@@ -63,9 +63,9 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">spicyborg.dev</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
