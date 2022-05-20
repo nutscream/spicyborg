@@ -1,7 +1,7 @@
 <h1>👋 Hey there! I'm Julien H. - <a href="https://twitter.com/spicyborg">@Spicyborg</a></h1>
 
 <p>I am a full-stack software engineer who is proficient in HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
-
+<br>
 
 <ul>
   <li>🏠 Currently living in Würzburg - Germany</li>
@@ -15,6 +15,7 @@
   <li>I never have something interesting to say on twitter</li>
 </ul>
 
+<br>
 <p>See <a href="">my website</a> for more information!</p>
 
 <h2 align="left">🎨 My last projects:</h2>
@@ -101,21 +102,9 @@
 
 
 
-<h2 align="left">🎨 Some extra bites of information</h2>
 
-<ul>
-  <li>🏠 Currently living in Würzburg - Germany</li>
-  <li>🌱 Originally from Paris - France</li>
-  <li>🤓 Speaks English, French, and a bit of German</li>
-  <li>👩 Pronouns: He/Him</li>
-  <li>Addicted to indoor bouldering</li>
-  <li>A proud Riot Games Fanboy, waiting for the MMORPG.</li>
-  <li>Using the tool @logseq to organise my whole life</li>
-  <li>I stream my learning on twitch</li>
-  <li>I never have something interesting to say on twitter</li>
-</ul>
 
-<h2 align="left">🎨 The languages and tools that I am using</h2>
+<h2 align="left">🎨 Tools and technologies:</h2>
   Javascript
   CSS
   HTML
@@ -124,7 +113,7 @@
   Else
   
   
-<h2 align="left">💬 If you wish to make contact or follow me around</h2>
+<h2 align="left">💬 Contact or follow me:</h2>
 
 <p align="left">
 <a href="https://twitter.com/spicyborg" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitterLink"/></a>
