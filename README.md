@@ -1,6 +1,12 @@
-<h1 align="left">Hi 👋, I'm Julien H. - 'Spicyborg'</h1>
 
+
+<h1 align="center">Hi 👋, I'm Julien H. - 'Spicyborg'</h1>
 <p align="center"> <img src="Banner.png" alt="spicyborg" /></p>
+
+<p>I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
+
+
+
 <p align="center"> <a href="https://twitter.com/spicyborg" target="blank"><img src="https://img.shields.io/twitter/follow/spicyborg?logo=twitter&style=for-the-badge" alt="spicyborg" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
