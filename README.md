@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Julien H. (Spicyborg)</h1>
+<h1 align="left">Hi 👋, I'm Julien H. - 'Spicyborg'</h1>
 
 
 <p align="center"> <a href="https://twitter.com/spicyborg" target="blank"><img src="https://img.shields.io/twitter/follow/spicyborg?logo=twitter&style=for-the-badge" alt="spicyborg" /></a> </p>
