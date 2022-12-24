@@ -1,4 +1,4 @@
-<h1>👋 Hey there! I'm Julien H. - <a href="https://twitter.com/spicyborg">@Spicyborg</a></h1>
+<h1>👋 Hey there! I'm Julien H. - <a href="https://twitter.com/nut_scream">@nut_scream</a></h1>
 
 <p>I am a full-stack software engineer who is proficient in HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.</p>
 <br>
